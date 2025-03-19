@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\BootCamp\\SampleChat\\SampleChat\\Source\\SampleChat\\SampleChat.Build.cs",
+		"C:\\BootCamp\\SampleChat\\SampleChat\\Source\\SampleChat.Target.cs",
+		"C:\\BootCamp\\SampleChat\\SampleChat\\Source\\SampleChatEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.1"
+}
